@@ -1,4 +1,4 @@
-import styles from './Search.module.css'
+import styles from './search.module.css'
 const SearchBar = ({...rest}) => {
     return (
         <div className = {styles.our_search}>

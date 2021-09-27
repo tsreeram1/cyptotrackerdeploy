@@ -3,7 +3,7 @@ import Image from 'next/image'
 import SearchBar from '../components/SearchBar';
 import coins from '../components/Coins';
 import Coins from '../components/Coins';
-import CoinList from '../components/Coins/CoinList';
+import CoinList from '../components/Coins/coinlist';
 
 export default function Home({gettingCoins}) {
   return (
